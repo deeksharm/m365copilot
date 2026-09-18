@@ -1,0 +1,16 @@
+OrderID,CustomerName,Product,Department,Quantity,SalesAmount,OrderDate
+1001,Aarav Sharma,Laptop,Technology,2,180000,2026-01-05
+1002,Priya Patel,Monitor,Technology,3,75000,2026-01-12
+1003,Rahul Mehta,Office Chair,Operations,4,48000,2026-01-18
+1004,Sneha Kulkarni,Keyboard,Technology,5,25000,2026-02-03
+1005,Vikram Joshi,Desk,Operations,2,36000,2026-02-10
+1006,Neha Desai,Headset,Sales,6,30000,2026-02-15
+1007,Aditya Rao,Laptop,Sales,1,90000,2026-03-02
+1008,Pooja Shah,Monitor,Finance,2,50000,2026-03-09
+1009,Rohan Gupta,Printer,Finance,1,22000,2026-03-16
+1010,Ananya Singh,Keyboard,Sales,4,20000,2026-03-22
+1011,Karan Verma,Laptop,Technology,1,90000,2026-04-01
+1012,Isha Nair,Office Chair,HR,3,36000,2026-04-08
+1013,Manish Yadav,Desk,HR,2,36000,2026-04-14
+1014,Riya Kapoor,Headset,Technology,4,20000,2026-04-20
+1015,Sahil Patil,Monitor,Sales,1,25000,2026-05-02
